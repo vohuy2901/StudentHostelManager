@@ -32,6 +32,7 @@
                     <label>Bạn chưa có tài khoản? 
                         <a href="register.jsp">Tạo tài khoản</a></a></>
                 </div>           
+                        <div> dang test xem co len dc khong </div> 
         </form>
 
     </body>
